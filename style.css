@@ -108,7 +108,7 @@ box-sizing:border-box;
 
 .box10{
 	width:1200px;
-	height:610px;
+	height:720px;
 	border:1px solid #000000;
 	background-color:#EFFFEE;
 	border-radius:100px;
@@ -131,46 +131,47 @@ float:left;
 	height:400px;
 	margin-top:50px;
 	margin-left:50px;
-	padding:20px;
+	padding:30px;
 	border-radius:50px;
 	color:#8B0000;
-	font-size:16px;
+	font-size:24px;
 	line-height:28px;
-	background-color:#777777;
+	background-color:#FFFFFF;
 }
 
 .box13{
 	width:200px;
-	height:75px;
+	height:76px;
 	padding:22px;
+	border-radius:50px;
 	margin-top:200px;
 	color:#8B0000;
 	font-size:38px;
 	line-height:28px;
-	background-color:#FFEEEE;
+	background-color:#FFFFFF;
 }
 
 
 .box14{
-	width:140px;
-	height:78px;
+	width:134px;
+	height:80px;
 	padding:28px;
+	border-radius:40px;
 	margin-top:650px;
 	color:#8B0000;
 	font-size:38px;
 	line-height:28px;
-	background-color:#FFEEEE;
+	background-color:#FFFFFF;
 }
 
 .box15{
 	float: left;
 	width:800px;
 	height:500px;
-	margin-top:300px;
-	background-color:#777777;
+	margin-top:50px;
+	background-color:#FFFFFF;
 	border-radius:60px;
 	overflow:hidden;
-	margin-top:50px
 	}
 
 .box16{
@@ -179,7 +180,7 @@ float:left;
 	height:500px;
 	margin-top:300px;
 	margin-left:80px;
-	background-color:#777777;
+	background-color:#FFFFFF;
 	border-radius:60px;
 	overflow:hidden;
 	margin-top:50px
@@ -189,23 +190,22 @@ float:left;
 	float:left;
 	width:300px;
 	height:500px;
-	margin-top:300px;
-	background-color:#777777;
+	margin-top:150px;
+	background-color:#FFFFFF;
 	border-radius:60px;
 	overflow:hidden;
-	margin-top:50px
+	
 	}
 
 .box18{
 	float: left;
 	width:800px;
 	height:500px;
-	margin-top:300px;
+	margin-top:150px;
 	margin-left:80px;
-	background-color:#777777;
+	background-color:#FFFFFF;
 	border-radius:60px;
 	overflow:hidden;
-	margin-top:50px
 	}
 
 
